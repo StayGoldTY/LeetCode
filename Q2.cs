@@ -16,7 +16,7 @@ public class ListNode
     }
 }
 
-public class TWO
+public class Q2
 {
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
     {
